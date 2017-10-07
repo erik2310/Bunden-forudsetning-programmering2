@@ -13,3 +13,5 @@ Opgaven handler om at starte et nyt Java projekt i IntelliJ IDEA, og lave 4 Java
 3. **Start.java** - skal indeholde main() metoden, som bringer de andre 3 klasser i spil.
 
 4. **MineMetoder.java** - skal indeholde minimum 5 ting, der illustrerer det vi har lært i september, f.eks. if, for, while, Random, Date, enum, Scanner, String eller andet, vi har snakket om. Skal indeholde kommentarer som viser min forståelse af koden. 
+
+Link til hele opgave beskrivelsen:  https://docs.google.com/document/d/1RiNtdYlD9e3NjPp4iPWPyGI3diRS0jv2sxxJYWBOlng/edit
