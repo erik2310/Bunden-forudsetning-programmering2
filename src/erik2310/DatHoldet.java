@@ -8,7 +8,7 @@ public class DatHoldet {
     }
 
     // Laver en void metode med de studerende som objekter, som også udskriver alle de studerende
-    public void getStuderende() {
+    void getStuderende() {
         // Laver de studerende som objekter af klassen Studerende
         Studerende student1 = new Studerende("Erik", 22, "Næstved", "EASJ");
         Studerende student2 = new Studerende("Daniel" , 23, "Næstved", "EASJ");

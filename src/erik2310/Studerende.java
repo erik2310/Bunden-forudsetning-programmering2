@@ -22,22 +22,22 @@ public class Studerende {
     }
 
     // Laver en metode der returnere navn som String
-    public String getNavn() {
+    String getNavn() {
         return navn;
     }
 
     // Laver en metode der returnere alder som int
-    public int getAlder()  {
+    int getAlder()  {
         return alder;
     }
 
     // Laver en metode der returnere by som String
-    public String getBy()   {
+    String getBy()   {
         return by;
     }
 
     // Laver en metode der returnere skole som String
-    public String getSkole() {
+    String getSkole() {
         return skole;
     }
 }
